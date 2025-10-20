@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_passpulse.png" alt="PassPulse banner" width="100%">
+  <img src="banner_passpulse.png" alt="PassPulse banner" width="50%">
 </p>
 
 # 🔐 PassPulse

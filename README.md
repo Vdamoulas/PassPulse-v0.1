@@ -7,7 +7,7 @@
 Modern Password Strength & Breach Scanner built with **Python** and **ttkbootstrap**.  
 Easily generate strong passwords, check security breaches, and visualize strength in real-time.
 <p align="center">
-  <img src="Header.png" alt="Petshop Demo Screenshot 1" width="30%">
+  <img src="Gui.png" alt="Petshop Demo Screenshot 1" width="30%">
   <br><br>
   <img src="Footer.png" alt="Petshop Demo Screenshot 2" width="30%">
 </p>

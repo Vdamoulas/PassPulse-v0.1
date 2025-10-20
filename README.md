@@ -9,7 +9,7 @@ Easily generate strong passwords, check security breaches, and visualize strengt
 <p align="center">
   <img src="Gui.png" alt="Petshop Demo Screenshot 1" width="30%">
   <br><br>
-  <img src="Footer.png" alt="Petshop Demo Screenshot 2" width="30%">
+  <img src="Options-Description.png" alt="Petshop Demo Screenshot 2" width="30%">
 </p>
 ![PassPulse Screenshot](screenshot_passpulse.png)
 
